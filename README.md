@@ -1,4 +1,10 @@
 # creditCardReport
+
+![image](https://github.com/user-attachments/assets/26948855-3086-4096-997b-6d7183726fc6)
+![image](https://github.com/user-attachments/assets/576026b6-5911-40bd-aa3c-c72d6ba10517)
+
+
+
 Dashboard on Credit Card Utilization report.
 This project leverages Power BI to analyze credit card financial data. It includes the creation of two interactive dashboards:
 Customer Dashboard: Provides insights into customer demographics, spending patterns, and behavior.
